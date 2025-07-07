@@ -1,0 +1,9 @@
+[package]
+name = "snek"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+console_engine = "2.6.1"
+euclid = "0.22.11"
+fastrand = "2.3.0"
